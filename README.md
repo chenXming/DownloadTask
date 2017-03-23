@@ -24,3 +24,4 @@
 //默认下载并发数量 在这里修改(WHC_HttpManager类)
 const NSInteger kWHCDefaultDownloadNumber = 1;
 ```
+感觉好用的话给个star吧^_^。大神的Github地址：[WHC](https://github.com/netyouli)
