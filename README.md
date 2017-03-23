@@ -1,4 +1,6 @@
 # DownloadVideo
+![](https://github.com/chenXming/DownloadTask/raw/master/download.gif)  
+
 基于大神WHC的多线程下载解决方案。我这边发现了几个Bug，做了下修改，所以只是拾人牙慧。Demo已经可以满足工程级别的下载需求了（支持断点续传、多任务并发下载、暂停、取消、删除任务）你可以下载下来做满足自己业务需求的更改。<br>使用的主要方法：<br>
 ```OC
 /**
